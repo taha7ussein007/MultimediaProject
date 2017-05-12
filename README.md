@@ -1,0 +1,1 @@
+Simple Java Desktop Project For Company - Customer Product Offering and Buying with SQL Database .
